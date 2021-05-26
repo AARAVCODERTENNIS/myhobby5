@@ -1,0 +1,22 @@
+body {
+  text-align:center;
+}
+p {
+  color:blue  
+}
+#myNavbar
+{
+    float: right;
+    z-index: 9;
+}
+
+#maindiv
+{
+    z-index: 5;
+
+    
+}
+.row img {
+    width: 250px;
+    height: 250px;
+}
